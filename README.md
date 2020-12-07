@@ -1,4 +1,6 @@
-### Hi there 👋
+![soruly's github stats](https://github-readme-stats.vercel.app/api?username=soruly&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soruly&layout=compact&langs_count=12)](https://github.com/soruly/github-readme-stats)
 
 <!--
 **soruly/soruly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
