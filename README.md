@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/soruly?style=social)](https://twitter.com/soruly)
 [![Discord](https://img.shields.io/discord/437578425767559188.svg?style=social)](https://discord.gg/K9jn6Kj)
 [![Instagram](https://img.shields.io/badge/instagram-soruly-orange?style=social)](https://www.instagram.com/soruly/)
-[![Youtube](https://img.shields.io/badge/youtube-soruly-red?style=social)](https://www.youtube.com/user/soruly)
+[![Youtube](https://img.shields.io/badge/youtube-soruly-red?style=social)](https://youtube.com/@soruly)
 
 ![Metrics](https://metrics.lecoq.io/soruly?template=classic&isocalendar=1&isocalendar.duration=full-year)
 
