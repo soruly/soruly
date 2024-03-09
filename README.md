@@ -1,11 +1,3 @@
-[![GitHub followers](https://img.shields.io/github/followers/soruly?style=social)](https://github.com/soruly)
-[![Twitter](https://img.shields.io/twitter/follow/soruly?style=social)](https://twitter.com/soruly)
-[![Discord](https://img.shields.io/discord/437578425767559188.svg?style=social)](https://discord.gg/K9jn6Kj)
-[![Instagram](https://img.shields.io/badge/instagram-soruly-orange?style=social)](https://www.instagram.com/soruly/)
-[![Youtube](https://img.shields.io/badge/youtube-soruly-red?style=social)](https://youtube.com/@soruly)
+![soruly](https://github.com/soruly/soruly/assets/1979746/25ed91f3-0ba0-43ec-8cf6-f28142b18e32) ![soruly's github stats](https://github-readme-stats.vercel.app/api?username=soruly&show_icons=true&include_all_commits=true&count_private=true&line_height=28) 
 
-![Metrics](https://metrics.lecoq.io/soruly?template=classic&isocalendar=1&isocalendar.duration=full-year)
-
-![soruly's github stats](https://github-readme-stats.vercel.app/api?username=soruly&show_icons=true&include_all_commits=true&count_private=true&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soruly&layout=compact&langs_count=12)
-
-https://user-images.githubusercontent.com/1979746/125893939-e7c49f11-9bc2-4cd7-a1e8-3f2868736533.mp4
+紺茶～けもみみソフトウェアエンジニアのソ瑠璃です。撫で撫で拾ってください。良ければお持ち帰りしてもいいよ。
